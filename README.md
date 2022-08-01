@@ -1,4 +1,4 @@
-### hey there!~
+# hey there!~
 
 I'm **Autsellia**, a 🎨 freelance artist/illustrator 🎨!
 
