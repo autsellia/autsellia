@@ -7,7 +7,7 @@ I'm not particularly knowledgeable on writing code, though I'm currently trying 
 If you'd like you can look at my website (the current one is on [carrd.co](https://carrd.co/), which is why I'd like to make a new one.):
 https://autsellia.com/
 
-### You can reach me by emailing me at [autsellia (at) gmail (dot) com](mailto:autsellia@gmail.com), (mostly for inquiries about commissions, and freelance offers in Illustration and Design).
+### You can reach me by emailing me at [autsellia (at) gmail (dot) com](mailto:autsellia@gmail.com), (though it is mostly for inquiries about commissions, and freelance offers in Illustration and Design).
 
 <!--
 **autsellia/autsellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
