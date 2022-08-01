@@ -1,4 +1,10 @@
-### Hi there 👋
+### hey there!~
+
+I'm **Autsellia**, a 🎨 freelance artist/illustrator 🎨!
+I'm not particularly knowledgeable on writing code, though I'm currently trying to learn Typescript for a potential website redesign, based on [Next.js by Vercel](https://nextjs.org/) for server-side REACT rendering (I think that's right, don't quote me on it.) Other than that I dabbled in some Python and C# at one point but I'm still not too knowledgeable on those either. I like writing and illustration, so the most you can expect from me here would between short game demos (always something I've wanted to do) or my website (on which I probably will use a LOT of help from friends more knowledgeable than me... and Google.).
+If you'd like you can look at my website (the current one is on [carrd.co](https://carrd.co/), which is why I'd like to make a new one.):
+https://autsellia.com/
+You can reach me by emailing me at [autsellia (at) gmail (dot) com](mailto:autsellia@gmail.com), (mostly for commissions and freelance offers in Illustration and Design).
 
 <!--
 **autsellia/autsellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
